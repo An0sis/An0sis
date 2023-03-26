@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on AI projects<br>🌱 I'm currently learning machine learning<br>📫 You can reach me with this address : hantzberg.joric@gmail.com<br>🌐 Come check my website : jorichz.fr<br>
+🔭 I'm currently working on AI projects<br>🌱 I'm currently learning machine learning<br>📫 You can reach me with this address : hantzberg.joric@gmail.com<br>🌐 Come check my website : www.jorichz.fr<br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/joric-hantzberg-8623481b9) 
 
 # 💻 Tech Stack:
